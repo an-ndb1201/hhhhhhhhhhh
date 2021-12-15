@@ -1,0 +1,22 @@
+Install VSCode
+
+HTML history
+
+https://www.w3schools.com/html/
+what is html? why html?
+	quick look at dantri.com
+	
+create a text file "HTML class 1 helloworld.html"
+	view in browser => black and white
+
+how do we decorate the text?
+	==> markup language
+	
+create a html file "HTML class 1 hello HTML5.html"
+	type in and exp HTML structure
+		doctype, <html>, <head>, <meta>, <title>, <body>
+		
+Format text with markup language
+	"HTML class 1 Format Text.html"
+	exp opening and closing tags
+	
